@@ -6,4 +6,4 @@ Hi there 👋
 - 😄 Pronouns: He, His, Him.
 - ⚡ Fun fact: Programmers will start the count from zero, not one. 
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhruvgarg02&&show_icons=true&title_color=edf5e1&icon_color=c3073f&text_color=edf5e1&bg_color=1f2833">
+<img src="https://github-readme-stats.vercel.app/api?username=dhruvgarg02&&show_icons=true&title_color=edf5e1&icon_color=ff652f&text_color=edf5e1&bg_color=1f2833">
