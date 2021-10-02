@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvgarg02&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvgarg02" /> </p>
 
-- 🔭 I’m currently working on **Untitled Team Portfolio**
-
-- 🌱 I’m currently learning **Frontend Development, DSA**
+- 🌱 I’m currently learning **Frontend Development, Backend Development, DSA**
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
-- 📫 How to reach me **dhruv-garg@outlook.com**
+- 📫 How to reach me **dhruvgargg02@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
