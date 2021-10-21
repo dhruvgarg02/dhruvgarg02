@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
-- 📫 How to reach me **dhruvgargg02@outlook.com**
+- 📫 How to reach me **dhruvgargg02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
